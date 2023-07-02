@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node . -p 9092"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Alynva",
