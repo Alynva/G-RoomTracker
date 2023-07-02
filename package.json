@@ -1,0 +1,16 @@
+{
+  "name": "G-RoomTracker",
+  "version": "1.0.0",
+  "description": "Track and highlight recently visited rooms to enhance your navigation experience.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node . -p 9092"
+  },
+  "keywords": [],
+  "author": "Alynva",
+  "license": "ISC",
+  "dependencies": {
+    "gnode-api": "*"
+  }
+}
